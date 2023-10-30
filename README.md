@@ -34,11 +34,11 @@ To play the Tic-Tac-Toe game, simply run the `tic_tac_toe.py` script using Pytho
 
 This game allows you to customize the player symbols. By default, it uses "X" and "O," but you can easily change them in the code to your preference.
 
-```python
-players = ["X", "O"]  # Customize player symbols here
-
 ## Project Files
 - `tic_tac_toe.py`: The source code for the Tic-Tac-Toe game.
 - `tic_tac_toe_screenshot.png`: A screenshot of the Tic-Tac-Toe game in action.
 
 This Tic-Tac-Toe game served as a fun way to learn and practice basic Python programming skills. 
+
+```python
+players = ["x", "o"]  # Customize player symbols here
